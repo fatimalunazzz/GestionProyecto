@@ -1,0 +1,59 @@
+name: Sync docs to Wiki
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/**'
+      - 'plantillas/**'
+      - 'plan-proyecto.md'
+      - 'README.md'
+  workflow_dispatch:
+
+jobs:
+  sync-wiki:
+    name: Sincronizar con la Wiki
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v5
+
+      - name: Clonar la Wiki
+        run: |
+          git clone "https://x-access-token:${{ secrets.WIKI_TOKEN }}@github.com/${{ github.repository }}.wiki.git" wiki
+
+      - name: Copiar archivos a la Wiki
+        run: |
+          cp README.md                                              wiki/Home.md
+          cp plan-proyecto.md                                       wiki/PlandeProyecto
+          cp docs/00-caso-y-equipo/caso-estudio.md                  wiki/00CasodeEstudio
+          cp docs/00-caso-y-equipo/equipo.md                        wiki/00Equipo
+          cp docs/01-plan-inicial/organizacion.md                   wiki/01Organizacion
+          cp docs/01-plan-inicial/ciclo-de-vida.md                  wiki/01CiclodeVida
+          cp docs/01-plan-inicial/entregables.md                    wiki/01Entregables
+          cp docs/02-wbs-estimaciones/wbs.md                        wiki/02WBS
+          cp docs/02-wbs-estimaciones/cronograma.md                 wiki/02Cronograma
+          cp docs/02-wbs-estimaciones/red-de-tareas.md              wiki/02ReddeTareas
+          cp docs/02-wbs-estimaciones/delphi.md                     wiki/02Delphi
+          cp docs/03-recursos-raci/matriz-raci.md                   wiki/03MatrizRACI
+          cp docs/03-recursos-raci/asignacion-recursos.md           wiki/03AsignacionRecursos
+          cp docs/04-riesgos/registro-riesgos.md                    wiki/04RegistroRiesgos
+          cp docs/04-riesgos/matriz-exposicion.md                   wiki/04MatrizExposicion
+          cp docs/04-riesgos/plan-respuesta.md                      wiki/04PlanRespuesta
+          cp docs/05-comunicaciones-cambios/plan-comunicaciones.md  wiki/05PlanComunicaciones
+          cp docs/05-comunicaciones-cambios/gestion-cambios.md      wiki/05GestionCambios
+          cp docs/06-pechakucha/guion.md                            wiki/06GuionPechaKucha
+          cp plantillas/formulario-cambio.md                        wiki/PlantillaFormularioCambio
+          cp plantillas/acta-reunion.md                             wiki/PlantillaActaReunion
+          cp docs/_Sidebar.md                                       wiki/_Sidebar
+
+      - name: Commit y push a la Wiki
+        run: |
+          cd wiki
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --staged --quiet || git commit -m "sync: docs actualizados desde main"
+          git push
