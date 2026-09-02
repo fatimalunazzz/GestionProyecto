@@ -4,18 +4,26 @@
 
 ```mermaid
 mindmap
-  root(("🎯 Proyecto\n[Nombre]"))
-    Entregable 1
-      [Sub-entregable 1.1]
-      [Sub-entregable 1.2]
-    Entregable 2
-      [Sub-entregable 2.1]
-      [Sub-entregable 2.2]
-    Entregable 3
-      [Sub-entregable 3.1]
-      [Sub-entregable 3.2]
-    Entregable 4
-      [Sub-entregable 4.1]
+  root((🎯 Monitoreo Acústico<br/>SiMABPA))
+    E1: Gestión y Metodología
+      Documento Idea de Proyecto
+      Protocolo Metodológico
+    E2: Planificación Técnica
+      Especificación Hardware
+      Modelo Base de Datos
+    E3: Prototipo y Campo
+      Ensamble Hardware Autónomo
+      Carcasa Impermeable
+      Despliegue Piloto
+    E4: Software Procesamiento
+      Clasificador IA
+      Algoritmo NDSI y ACI
+    E5: Plataforma Visualización
+      Base de Datos Audio
+      Mapa Web Interactivo
+    E6: Validación y Cierre
+      Informe Análisis Bioacústico
+      Acta Aceptación Sponsor
 ```
 
 ## Detalle de entregables
