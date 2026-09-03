@@ -5,25 +5,15 @@
 ```mermaid
 mindmap
   root((🎯 Monitoreo Acústico<br/>SiMABPA))
-    Entregable 1: Gestión y Metodología
-      Documento Idea de Proyecto
-      Protocolo Metodológico
-    Entregable 2: Planificación Técnica
-      Especificación Hardware
-      Modelo Base de Datos
-    Entregable 3: Prototipo y Campo
-      Ensamble Hardware Autónomo
-      Carcasa Impermeable
-      Despliegue Piloto
-    Entregable 4: Software Procesamiento
-      Clasificador IA
-      Algoritmo NDSI y ACI
-    Entregable 5: Plataforma Visualización
-      Base de Datos Audio
-      Mapa Web Interactivo
-    Entregable 6: Validación y Cierre
-      Informe Análisis Bioacústico
-      Acta Aceptación Sponsor
+    Entregable 1: Dispositivo Autónomo de Grabación
+      Gabinete estanco
+      hardware de adquisición acustica
+    Entregable 2: Plataforma de Visualización
+      Interfaz grafica de datos
+    Entregable 3: Informe de Diagnóstico Acústico-Ecológico Inicial
+      Reporte técnico de los indices
+      Reporte comparativo
+
 
 ```
 
@@ -32,7 +22,7 @@ mindmap
 | # | Entregable | Descripción | Responsable | Criterio de aceptación |
 |---|-----------|-------------|------------|------------------------|
 | 1 | [		Dispositivo Autónomo de Grabación ] | [Gabinete estanco instalado físicamente en el sitio de registro, capaz de operar a la intemperie y recolectar audio de alta fidelidad.] | [ Responsable de Hardware e Infraestructura ] | [ Autonomía mínima certificada de 48 horas continuas de grabación activa.- Resistencia a la intemperie según estándar IP65 (protección contra lluvia y humedad).- Almacenamiento del registro en tarjeta de memoria sin pérdida de datos. ] |
-| 2 | [Plataforma de Visualización] | [mapa local interactivo que permita al personal del parque o municipio visualizar georreferencialmente las métricas obtenidas.] | [Responsable de Datos y Visualización] | [- Interfaz gráfica amigable que muestre los puntos de monitoreo en un mapa de la zona y representación visual de los índices NDSI y ACI por punto de muestreo.] |
+| 2 | [Plataforma de Visualización] | [mapa local que permita al personal del parque o municipio visualizar georreferencialmente las métricas obtenidas.] | [Responsable de Datos y Visualización] | [ Interfaz gráfica amigable que muestre los puntos de monitoreo en un mapa de la zona y representación visual de los índices NDSI y ACI por punto de muestreo.] |
 | 3 | [	Informe de Diagnóstico Acústico-Ecológico Inicial ] | [ Reporte técnico y de negocio que traduce los índices para informar intuitivamente la conservación urbana y de biodiversidad en Entre Ríos. ] | [Especialista en Bioacústica y Conservación / PM] | [ Documento con análisis comparativo del estado de conservación entre los distintos puntos de muestreo (zona conservada vs. zona urbana).- ] |
 
 
