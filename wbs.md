@@ -4,20 +4,18 @@
 
 ```mermaid
 mindmap
-  root(("📁 [Nombre\ndel Proyecto]"))
-    1. [Entregable 1]
-      1.1 [Tarea 1.1]
-      1.2 [Tarea 1.2]
-        1.2.1 [Sub-tarea]
-        1.2.2 [Sub-tarea]
-      1.3 [Tarea 1.3]
-    2. [Entregable 2]
-      2.1 [Tarea 2.1]
-      2.2 [Tarea 2.2]
-      2.3 [Tarea 2.3]
-    3. [Entregable 3]
-      3.1 [Tarea 3.1]
-      3.2 [Tarea 3.2]
+  root(("📁 Trino: Monitoreo Acústico"))
+    1. Dispositivo Autónomo de Grabación
+      1.1 Diseño de hardware y selección de componentes
+      1.2 Ensamble de componentes y montaje en gabinete
+      1.3 Pruebas de autonomía y rendimiento térmico/intemperie
+    2. Informe de Diagnóstico Acústico-Ecológico Inicial
+      2.1 Protocolo de muestreo y captura de audio piloto
+      2.2 Curado y etiquetado del dataset acústico
+      2.3 Entrenamiento y validación del modelo de IA
+    3. Plataforma de Visualización
+      3.1 Diseño de la base de datos y modelo de datos
+      3.2 Desarrollo de la interfaz web y tableros de control
     4. Gestión del Proyecto
       4.1 Planificación
       4.2 Seguimiento y Control
