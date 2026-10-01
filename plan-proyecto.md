@@ -9,7 +9,7 @@
 
 | Campo | Detalle |
 |-------|---------|
-| Nombre del proyecto | [COMPLETAR] |
+| Nombre del proyecto | Sistema de monitoreo acústico para generar indicadores de biodiversidad y perturbación ambiental |
 | Organización | [COMPLETAR] |
 | Sponsor | [COMPLETAR] |
 | Director de Proyecto | [COMPLETAR] |
