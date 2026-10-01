@@ -7,17 +7,34 @@ mindmap
   root(("📁 Trino: Monitoreo Acústico"))
     1. Dispositivo Autónomo de Grabación
       1.1 Diseño de hardware y selección de componentes
+        1.1.1 Selección de gabinete IP65 y soportes
+        1.1.2 Sistema de alimentación autónomo
       1.2 Ensamble de componentes y montaje en gabinete
+        1.2.1 Integración de micrófono y placa COTS
+        1.2.2 Configuración de firmware y almacenamiento SD
       1.3 Pruebas de autonomía y rendimiento térmico/intemperie
+        1.3.1 Instalación en sitio de prueba
+        1.3.2 Prueba de autonomía de 48 horas
     2. Informe de Diagnóstico Acústico-Ecológico Inicial
       2.1 Protocolo de muestreo y captura de audio piloto
+        2.1.1 Estandarización de parámetros de audio
       2.2 Curado y etiquetado del dataset acústico
       2.3 Entrenamiento y validación del modelo de IA
+      2.4 Reporte final de diagnóstico
+        2.4.1 Elaboración de informe ambiental para el Sponsor
     3. Plataforma de Visualización
-      3.1 Diseño de la base de datos y modelo de datos
-      3.2 Desarrollo de la interfaz web y tableros de control
+      3.1 Base de Datos Local
+        3.1.1 Diseño de esquema de datos y metadatos
+      3.2 Motor de Procesamiento e IA
+        3.2.1 Algoritmo de cálculo NDSI y ACI
+        3.2.2 Clasificador binario Aves vs Perturbación
+      3.3 Interfaz Gráfica Georreferencial
+        3.3.1 Mapa interactivo de puntos de muestreo
+        3.3.2 Panel de visualización de indicadores
     4. Gestión del Proyecto
       4.1 Planificación
+        4.1.1 Acta de constitución y alcance
+        4.1.2 WBS, Cronograma y RACI
       4.2 Seguimiento y Control
       4.3 Cierre
 ```
