@@ -41,7 +41,7 @@ flowchart LR
 
 | ID | Tarea | Inicio Temprano | Fin Temprano | Inicio Tardío | Fin Tardío | Holgura | ¿Crítica? |
 |----|-------|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.1.1 | Estandarización de parámetros de audio | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+| 1.1.1 | Estandarización de parámetros de audio | 0 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
 | 1.2.1 | Sistema de alimentación autónomo | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
 | 1.2.2 | Micrófono, placa comercial, almacenamiento SD, gabinete y soportes | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
 | 1.3.1 | Integración de micrófono y placa comercial | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
