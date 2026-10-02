@@ -97,8 +97,10 @@ style T43 fill:#FFCCCC,stroke:#C62828,color:#000000
 | 4.3 | Cierre | 36 | 38 | 36 | 38 | 0 | SÍ |
 
 **Relación hs/día:** 8 h/día (20 h = 2.5 d= 3 d)
+
 **Duración total del proyecto:** 62 días (495.4 h)
-**Duración total del proyecto con desvío:** 84 días (662.92 h)
+
+**Duración total del proyecto con desvío:** 84 días (662.92 h)(3 meses)
 
 **Camino Crítico:** `INICIO → 4.1.1 → 1.1.1 → 1.2.1 → 1.2.2 → 1.3.2 → 1.3.3 → 1.4 → 3.1 → 2.2.2 → 3.2 → 3.3.1 → 4.3 → FIN`
 
