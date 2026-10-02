@@ -6,26 +6,26 @@
 
 | ID | Tarea | Est. 1 (hs) | Est. 2 (hs) | Est. 3 (hs) | Est. 4-ChatGPT | Est. 5-Gemini| Promedio R1 | Delta R1 |
 |----|-------|:-----------:|:-----------:|:-----------:|:-----------:|:--------:|:--------:|:--------:|
-| 1.1.1 | [Estandarización de parámetros de audio] | [24] | [14] | [50] | [16] | [16] | [24.0] | [15.0] |
-| 1.2.1 | [Sistema de alimentación autónomo] | [32] | [16] | [40] | [20] | [24] | [26.4] | [9.6] |
-| 1.2.2 | [Micrófono, placa comercial, almacenamiento SD, gabinete y soportes] | [24] | [14] | [20] | [16] | [20] | [18.8] | [3.9] |
-| 1.3.1 | [Integración de micrófono y placa comercial] | [32] | [8] | [40] | [24] | [32] | [27.2] | [12.1] |
-| 1.3.2 | [Configuración de firmware y almacenamiento SD] | [24] | [12] | [80] | [32] | [40] | [37.6] | [25.9] |
-| 1.3.3 | [Montaje y comprobación de funcionamiento] | [16] | [12] | [30] | [16] | [16] | [18.0] | [6.9] |
-| 1.4 | [Pruebas de autonomía y funcionamiento en campo] | [40] | [52] | [110] | [12] | [48] | [52.4] | [35.8] |
-| 2.1.1 | [Diseño de esquema de datos y metadatos] | [32] | [20] | [60] | [24] | [24] | [32.0] | [16.2] |
-| 2.2.1 | [Algoritmo de cálculo NDSI y ACI] | [40] | [32] | [30] | [32] | [40] | [34.8] | [4.8] |
-| 2.2.2 | [Clasificador binario Aves vs Perturbación] | [96] | [56] | [80] | [48] | [60] | [68.0] | [19.6] |
-| 2.3.1 | [Mapa interactivo de puntos de muestreo] | [24] | [56] | [40] | [32] | [32] | [36.8] | [12.1] |
-| 2.3.2 | [Panel de visualización de indicadores] | [64] | [32] | [70] | [48] | [40] | [50.8] | [16.0] |
-| 3.1 | [Estandarización del dataset acústico] | [32] | [20] | [30] | [24] | [24] | [26.0] | [4.9] |
-| 3.2 | [Análisis comparativo zona conservada vs urbana] | [48] | [16] | [20] | [24] | [36] | [28.8] | [13.1] |
-| 3.3.1 | [Elaboración de informe ambiental para el Sponsor] | [40] | [24] | [60] | [32] | [30] | [37.2] | [14.0] |
-| 4.1.1 | [Acta de constitución y alcance] | [16] | [20] | [50] | [12] | [20] | [23.6] | [15.1] |
-| 4.1.2 | [WBS, Cronograma y RACI] | [32] | [24] | [60] | [24] | [28] | [33.6] | [15.1] |
-| 4.2 | [Seguimiento y Control] | [48] | [34] | [30] | [24] | [40] | [35.2] | [9.2] |
-| 4.3 | [Cierre] | [16] | [8] | [10] | [8] | [16] | [11.6] | [4.1] |
-| **TOTAL** | | | | | | |**[468]** | | |
+| 1.1.1 | Estandarización de parámetros de audio | 24 | 14 | 50 | 16 | 16 | 24 | 15 |
+| 1.2.1 | Sistema de alimentación autónomo | 32 | 16 | 40 | 20 | 24 | 26.4 | 9.6 |
+| 1.2.2 | Micrófono, placa comercial, almacenamiento SD, gabinete y soportes | 24 | 14 | 20 | 16 | 20 | 18.8 | 3.9 |
+| 1.3.1 | Integración de micrófono y placa comercial | 32 | 8 | 40 | 24 | 32 | 27.2 | 12.1 |
+| 1.3.2 | Configuración de firmware y almacenamiento SD | 24 | 12 | 80 | 32 | 40 | 37.6 | 25.9 |
+| 1.3.3 |Montaje y comprobación de funcionamiento | 16 | 12 | 30 | 16 | 16 | 18.0 | 6.9 |
+| 1.4 | Pruebas de autonomía y funcionamiento en campo | 40 | 52 | 110 | 12 | 48 | 52.4 | 35.8 |
+| 2.1.1 | Diseño de esquema de datos y metadatos | 32 | 20 | 60 | 24 | 24 | 32 | 16.2 |
+| 2.2.1 | Algoritmo de cálculo NDSI y ACI | 40 | 32 | 30 | 32 | 40 | 34.8 | 4.8 |
+| 2.2.2 | Clasificador binario Aves vs Perturbación | 96 | 56 | 80 | 48 | 60 | 68.0 | 19.6 |
+| 2.3.1 | Mapa interactivo de puntos de muestreo | 24] | 56 | 40 | 32 | 32 | 36.8 | 12.1 |
+| 2.3.2 | Panel de visualización de indicadores | 64 | 32 | 70 | 48 | 40 | 50.8 | 16 |
+| 3.1 | Estandarización del dataset acústico | 32 | 20 | 30 | 24 | 24 | 26 | 4.9 |
+| 3.2 | Análisis comparativo zona conservada vs urbana] | 48 | 16 | 20 | 24 | 36 | 28.8 | 13.1 |
+| 3.3.1 | Elaboración de informe ambiental para el Sponsor | 40 | 24 | 60 | 32 | 30 | 37.2 | 14.0 |
+| 4.1.1 | Acta de constitución y alcance | 16 | 20 | 50 | 12 | 20 | 23.6 | 15.1 |
+| 4.1.2 | WBS, Cronograma y RACI | 32 | 24 | 60 | 24 | 28 | 33.6 | 15.1 |
+| 4.2 | Seguimiento y Control | 48 | 34 | 30 | 24 | 40 | 35.2 | 9.2 |
+| 4.3 | Cierre | 16 | 8 | 10 | 8 | 16 | 11.6 | 4.1 |
+| **TOTAL** | | | | | | |**468** | | |
 
 > **Delta:** diferencia entre la estimación máxima y mínima de la ronda. Si Delta > [umbral definido por el grupo], se discute y se realiza la ronda 2.
 
