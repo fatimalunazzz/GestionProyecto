@@ -56,7 +56,7 @@
 | 4.1.2 | [WBS, Cronograma y RACI] | [32] | [30] | [32] | [12] | [24] | [26.0] | [8.5] |
 | 4.2 | [Seguimiento y Control] | [32] | [32] | [30] | [16] | [44] | [30.8] | [10.0] |
 | 4.3 | [Cierre] | [8] | [10] | [8] | [8] | [16] | [10.0] | [3.5] |
-| **TOTAL** | | | | | | |  **286**| **170.6** | | 
+| **TOTAL** | | | | | | |  **495**| **170.6** | | 
 ## Conversión a duración
 
 | ID | Tarea | Esfuerzo (hs) | Recursos asignados | Dedicación (%) | Duración (días) |
