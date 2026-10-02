@@ -4,17 +4,28 @@
 
 ## Ronda 1
 
-| ID | Tarea | Est. 1 (hs) | Est. 2 (hs) | Est. 3 (hs) | Est. 4-ChatGPT | Est. 5-Claude| Promedio R1 | Delta R1 |
+| ID | Tarea | Est. 1 (hs) | Est. 2 (hs) | Est. 3 (hs) | Est. 4-ChatGPT | Est. 5-Gemini| Promedio R1 | Delta R1 |
 |----|-------|:-----------:|:-----------:|:-----------:|:-----------:|:--------:|:--------:|:--------:|
-| 1.1 | [Diseño de hardware y selección de componentes] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [40] | [40] | [COMPLETAR] | [COMPLETAR] |
-| 1.2 | [Ensamble de componentes y montaje en gabinete] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [24] | [24] | [COMPLETAR] | [COMPLETAR] |
-| 1.3 | [Pruebas de autonomía y rendimiento térmico/intemperie] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [32] | [60] | [COMPLETAR] | [COMPLETAR] |
-| 2.1 | [Protocolo de muestreo y captura de audio piloto] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [20] | [50] | [COMPLETAR] | [COMPLETAR] |
-| 2.2 | [Curado y etiquetado del dataset acústico]| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [60] | [120] | [COMPLETAR] | [COMPLETAR] |
-| 2.3 | [Entrenamiento y validación del modelo de IA] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [80] | [80] | [COMPLETAR] | [COMPLETAR] |
-| 3.1 | [Diseño de la base de datos y modelo de datos] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [24] | [24] | [COMPLETAR] | [COMPLETAR] |
-| 3.2 | [Desarrollo de la interfaz web y tableros de control] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [60] | [100] | [COMPLETAR] | [COMPLETAR] |
-| **TOTAL** | | | | | **[COMPLETAR]** | |
+| 1.1.1 | [Estandarización de parámetros de audio] | [24] | [14] | [50] | [16] | [16] | [24.0] | [15.0] |
+| 1.2.1 | [Sistema de alimentación autónomo] | [32] | [16] | [40] | [20] | [24] | [26.4] | [9.6] |
+| 1.2.2 | [Micrófono, placa comercial, almacenamiento SD, gabinete y soportes] | [24] | [14] | [20] | [16] | [20] | [18.8] | [3.9] |
+| 1.3.1 | [Integración de micrófono y placa comercial] | [32] | [8] | [40] | [24] | [32] | [27.2] | [12.1] |
+| 1.3.2 | [Configuración de firmware y almacenamiento SD] | [24] | [12] | [80] | [32] | [40] | [37.6] | [25.9] |
+| 1.3.3 | [Montaje y comprobación de funcionamiento] | [16] | [12] | [30] | [16] | [16] | [18.0] | [6.9] |
+| 1.4 | [Pruebas de autonomía y funcionamiento en campo] | [40] | [52] | [110] | [12] | [48] | [52.4] | [35.8] |
+| 2.1.1 | [Diseño de esquema de datos y metadatos] | [32] | [20] | [60] | [24] | [24] | [32.0] | [16.2] |
+| 2.2.1 | [Algoritmo de cálculo NDSI y ACI] | [40] | [32] | [30] | [32] | [40] | [34.8] | [4.8] |
+| 2.2.2 | [Clasificador binario Aves vs Perturbación] | [96] | [56] | [80] | [48] | [60] | [68.0] | [19.6] |
+| 2.3.1 | [Mapa interactivo de puntos de muestreo] | [24] | [56] | [40] | [32] | [32] | [36.8] | [12.1] |
+| 2.3.2 | [Panel de visualización de indicadores] | [64] | [32] | [70] | [48] | [40] | [50.8] | [16.0] |
+| 3.1 | [Estandarización del dataset acústico] | [32] | [20] | [30] | [24] | [24] | [26.0] | [4.9] |
+| 3.2 | [Análisis comparativo zona conservada vs urbana] | [48] | [16] | [20] | [24] | [36] | [28.8] | [13.1] |
+| 3.3.1 | [Elaboración de informe ambiental para el Sponsor] | [40] | [24] | [60] | [32] | [30] | [37.2] | [14.0] |
+| 4.1.1 | [Acta de constitución y alcance] | [16] | [20] | [50] | [12] | [20] | [23.6] | [15.1] |
+| 4.1.2 | [WBS, Cronograma y RACI] | [32] | [24] | [60] | [24] | [28] | [33.6] | [15.1] |
+| 4.2 | [Seguimiento y Control] | [48] | [34] | [30] | [24] | [40] | [35.2] | [9.2] |
+| 4.3 | [Cierre] | [16] | [8] | [10] | [8] | [16] | [11.6] | [4.1] |
+| **TOTAL** | | | | | **[468]** | |
 
 > **Delta:** diferencia entre la estimación máxima y mínima de la ronda. Si Delta > [umbral definido por el grupo], se discute y se realiza la ronda 2.
 
@@ -24,18 +35,28 @@
 
 ## Ronda 2
 
-| ID | Tarea | Est. 1 (hs) | Est. 2 (hs) | Est. 3 (hs) | Promedio R2 | Delta R2 | Estimación Final |
-|----|-------|:-----------:|:-----------:|:-----------:|:-----------:|:--------:|:----------------:|
-| 1.1 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 1.2 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 1.3 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 2.1 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 2.2 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 2.3 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 3.1 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 3.2 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| **TOTAL** | | | | | | | **[COMPLETAR] hs** |
-
+| ID | Tarea | Est. 1 (hs) | Est. 2 (hs) | Est. 3 (hs) | Est. 4-ChatGPT | Est. 5-Gemini| Promedio R2 | Delta R2 |
+|----|-------|:-----------:|:-----------:|:-----------:|:-----------:|:--------:|:--------:|:--------:|
+| 1.1.1 | [Estandarización de parámetros de audio] | [24] | [16] | [20] | [6] | [18] | [16.8] | [6.7] |
+| 1.2.1 | [Sistema de alimentación autónomo] | [24] | [10] | [14] | [12] | [28] | [17.6] | [7.9] |
+| 1.2.2 | [Micrófono, placa comercial, almacenamiento SD, gabinete y soportes] | [16] | [16] | [18] | [14] | [18] | [16.4] | [1.7] |
+| 1.3.1 | [Integración de micrófono y placa comercial] | [24] | [10] | [20] | [12] | [30] | [19.2] | [8.3] |
+| 1.3.2 | [Configuración de firmware y almacenamiento SD] | [40] | [20] | [32] | [16] | [48] | [31.2] | [13.4] |
+| 1.3.3 | [Montaje y comprobación de funcionamiento] | [24] | [16] | [10] | [12] | [20] | [16.4] | [5.7] |
+| 1.4 | [Pruebas de autonomía y funcionamiento en campo] | [56] | [53] | [58] | [10] | [52] | [45.8] | [20.2] |
+| 2.1.1 | [Diseño de esquema de datos y metadatos] | [32] | [20] | [30] | [14] | [22] | [23.6] | [7.4] |
+| 2.2.1 | [Algoritmo de cálculo NDSI y ACI] | [32] | [18] | [24] | [24] | [36] | [26.8] | [7.2] |
+| 2.2.2 | [Clasificador binario Aves vs Perturbación] | [72] | [48] | [52] | [28] | [64] | [52.8] | [16.8] |
+| 2.3.1 | [Mapa interactivo de puntos de muestreo] | [40] | [32] | [40] | [24] | [28] | [32.8] | [7.2] |
+| 2.3.2 | [Panel de visualización de indicadores] | [48] | [40] | [38] | [30] | [36] | [38.4] | [6.5] |
+| 3.1 | [Estandarización del dataset acústico] | [32] | [18] | [24] | [12] | [28] | [22.8] | [7.9] |
+| 3.2 | [Análisis comparativo zona conservada vs urbana] | [32] | [16] | [20] | [12] | [40] | [24.0] | [11.7] |
+| 3.3.1 | [Elaboración de informe ambiental para el Sponsor] | [40] | [14] | [16] | [18] | [32] | [24.0] | [11.4] |
+| 4.1.1 | [Acta de constitución y alcance] | [24] | [28] | [24] | [6] | [18] | [20.0] | [8.6] |
+| 4.1.2 | [WBS, Cronograma y RACI] | [32] | [30] | [32] | [12] | [24] | [26.0] | [8.5] |
+| 4.2 | [Seguimiento y Control] | [32] | [32] | [30] | [16] | [44] | [30.8] | [10.0] |
+| 4.3 | [Cierre] | [8] | [10] | [8] | [8] | [16] | [10.0] | [3.5] |
+| **TOTAL** | | | | | **[286]** | |
 ## Conversión a duración
 
 | ID | Tarea | Esfuerzo (hs) | Recursos asignados | Dedicación (%) | Duración (días) |
