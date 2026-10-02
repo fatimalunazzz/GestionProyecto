@@ -25,7 +25,7 @@
 | 4.1.2 | WBS, Cronograma y RACI | 32 | 24 | 60 | 24 | 28 | 33.6 | 15.1 |
 | 4.2 | Seguimiento y Control | 48 | 34 | 30 | 24 | 40 | 35.2 | 9.2 |
 | 4.3 | Cierre | 16 | 8 | 10 | 8 | 16 | 11.6 | 4.1 |
-| **TOTAL** | | | | | | |**468** | | |
+| **TOTAL** | | | | | | |**468** | **253.4** | |
 
 > **Delta:** diferencia entre la estimación máxima y mínima de la ronda. Si Delta > [umbral definido por el grupo], se discute y se realiza la ronda 2.
 
@@ -56,7 +56,7 @@
 | 4.1.2 | [WBS, Cronograma y RACI] | [32] | [30] | [32] | [12] | [24] | [26.0] | [8.5] |
 | 4.2 | [Seguimiento y Control] | [32] | [32] | [30] | [16] | [44] | [30.8] | [10.0] |
 | 4.3 | [Cierre] | [8] | [10] | [8] | [8] | [16] | [10.0] | [3.5] |
-| **TOTAL** | | | | | | |  **[286]**| | | 
+| **TOTAL** | | | | | | |  **286**| **170.6** | | 
 ## Conversión a duración
 
 | ID | Tarea | Esfuerzo (hs) | Recursos asignados | Dedicación (%) | Duración (días) |
