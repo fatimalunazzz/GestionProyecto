@@ -25,13 +25,13 @@
 | 4.1.2 | [WBS, Cronograma y RACI] | [32] | [24] | [60] | [24] | [28] | [33.6] | [15.1] |
 | 4.2 | [Seguimiento y Control] | [48] | [34] | [30] | [24] | [40] | [35.2] | [9.2] |
 | 4.3 | [Cierre] | [16] | [8] | [10] | [8] | [16] | [11.6] | [4.1] |
-| **TOTAL** | | | | | | | | |**[468]** |
+| **TOTAL** | | | | | | |**[468]** | | |
 
 > **Delta:** diferencia entre la estimación máxima y mínima de la ronda. Si Delta > [umbral definido por el grupo], se discute y se realiza la ronda 2.
 
 ## Discusión entre rondas
 
-> [COMPLETAR: resumir los argumentos que intercambiaron los estimadores para fundamentar sus valores antes de la ronda 2]
+> Se reevaluaron las duraciones de cada entregable en general, analizando el contexto especifico de cada tarea y ponderando en la comparativa de la ronda 1
 
 ## Ronda 2
 
@@ -56,15 +56,35 @@
 | 4.1.2 | [WBS, Cronograma y RACI] | [32] | [30] | [32] | [12] | [24] | [26.0] | [8.5] |
 | 4.2 | [Seguimiento y Control] | [32] | [32] | [30] | [16] | [44] | [30.8] | [10.0] |
 | 4.3 | [Cierre] | [8] | [10] | [8] | [8] | [16] | [10.0] | [3.5] |
-| **TOTAL** | | | | | | | | | **[286]** | 
+| **TOTAL** | | | | | | |  **[286]**| | | 
 ## Conversión a duración
 
 | ID | Tarea | Esfuerzo (hs) | Recursos asignados | Dedicación (%) | Duración (días) |
 |----|-------|:-------------:|-------------------|:--------------:|:---------------:|
-| 1.1 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR]% | [COMPLETAR] |
-| 1.2 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR]% | [COMPLETAR] |
+| 1.1.1 | Estandarización de parámetros de audio | 16,8 | 2 (A + B) | 100% | 2 |
+| 1.2.1 | Sistema de alimentación autónomo | 17,6 | 2 (A + B) | 100% | 2 |
+| 1.2.2 | Micrófono, placa comercial, almacenamiento SD, gabinete y soportes | 16,4 | 2 (A + B) | 100% | 2 |
+| 1.3.1 | Integración de micrófono y placa comercial | 19,2 | 1 (A) | 100% | 3 |
+| 1.3.2 | Configuración de firmware y almacenamiento SD | 31,2 | 1 (B) | 100% | 4 |
+| 1.3.3 | Montaje y comprobación de funcionamiento | 16,4 | 2 (A + B) | 100% | 2 |
+| 1.4 | Pruebas de autonomía y funcionamiento en campo | 45,8 | 1 (A) | 100% | 6 |
+| 2.1.1 | Diseño de esquema de datos y metadatos | 23,6 | 1 (B) | 100% | 3 |
+| 2.2.1 | Algoritmo de cálculo NDSI y ACI | 26,8 | 2 (B + C) | 60% | 3 |
+| 2.2.2 | Clasificador binario Aves vs Perturbación | 52,8 | 2 (A + B) | 60% | 6 |
+| 2.3.1 | Mapa interactivo de puntos de muestreo | 32,8 | 2 (B + C) | 60% | 4 |
+| 2.3.2 | Panel de visualización de indicadores | 38,4 | 1 (B) | 100% | 5 |
+| 3.1 | Estandarización del dataset acústico | 22,8 | 1 (B) | 100% | 3 |
+| 3.2 | Análisis comparativo zona conservada vs urbana | 24,0 | 1 (B) | 100% | 3 |
+| 3.3.1 | Elaboración de informe ambiental para el Sponsor | 24,0 | 1 (C) | 100% | 3 |
+| 4.1.1 | Acta de constitución y alcance | 20,0 | 1 (C) | 100% | 3 |
+| 4.1.2 | WBS, Cronograma y RACI | 26,0 | 2 (B + C) | 60% | 3 |
+| 4.2 | Seguimiento y Control | 30,8 | 1 (C) | 100% | 4 |
+| 4.3 | Cierre | 10,0 | 1 (C) | 100% | 2 |
 
 > **Fórmula:** Duración = Esfuerzo / (Recursos × Dedicación × Hs/día)
+> A:Hardware
+> B:Software y datos
+> C:Gestión y soporte
 
 ---
 
