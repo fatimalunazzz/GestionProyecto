@@ -16,14 +16,19 @@
 
 | ID | Tarea | Director | Responsable de Hardware | Responsable de Software | Especialista en Bioacústica | Responsable de Datos |
 |----|-------|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 1.1 | [COMPLETAR] | A | R | I | I | I |
-| 1.2 | [COMPLETAR] | A | R | C | I | I |
-| 1.3 | [COMPLETAR] | A | C | R | I | I |
-| 2.1 | [COMPLETAR] | A | R | R | I | I |
-| 2.2 | [COMPLETAR] | A | C | R | C | I |
-| 2.3 | [COMPLETAR] | A | I | R | R | I |
-| 3.1 | [COMPLETAR] | A | C | R | R | I |
-| 3.2 | [COMPLETAR] | A | I | C | R | I |
+| 1.1 | Estandarización de parámetros de audio | I |  | R | A | C |
+| 1.2 | Sistema de alimentación autónomo y selección de hardware (micrófono, placa, SD, gabinete y soportes) | A | R | C |  |  |
+| 1.3 | Integración de componentes, configuración de firmware/SD y montaje del dispositivo | A | R | R |  | C |
+| 1.4 | Pruebas de autonomía y funcionamiento en campo | R | R |  | A |  |
+| 2.1 | Diseño de esquema de datos y metadatos | A |  |  |  | R |
+| 2.2 | Algoritmo de cálculo NDSI y ACI y clasificador binario Aves vs Perturbación | A |  | R |  | R |
+| 2.3 | Mapa interactivo de puntos de muestreo y panel de visualización de indicadores | A |  | R |  | R |
+| 3.1 | Estandarización del dataset acústico |  |  | R |  | A |
+| 3.2 | Análisis comparativo zona conservada vs urbana | A |  |  | R |  |
+| 3.3 | Elaboración de informe ambiental para el Sponsor | A |  |  | R | R |
+| 4.1 | Acta de constitución y alcance; WBS, cronograma y RACI | A |  |  | R |  |
+| 4.2 | Seguimiento y control | A | R | R | R | R |
+| 4.3 | Cierre | R |  |  | A |  |
 
 > ⚠️ **Verificación obligatoria:** cada fila debe tener exactamente **1 A** y al menos **1 R**.
 
