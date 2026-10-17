@@ -98,8 +98,6 @@ style T43 fill:#FFCCCC,stroke:#C62828,color:#000000
 
 **Relación hs/día:** 8 h/día (20 h = 2.5 d= 3 d)
 
-T = 297,8 h → 297,8 / 8 = 37,2 → 38 días
-
 
 **Duración esperada del proyecto (suma de promedios):** 37,2 → 38 días (297,8 h)
 
