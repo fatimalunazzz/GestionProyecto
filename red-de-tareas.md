@@ -98,9 +98,12 @@ style T43 fill:#FFCCCC,stroke:#C62828,color:#000000
 
 **Relación hs/día:** 8 h/día (20 h = 2.5 d= 3 d)
 
-**Duración total del proyecto:** 62 días (495.4 h)
+T = 297,8 h → 297,8 / 8 = 37,2 → 38 días
+**Duración esperada del proyecto (suma de promedios):** 37,2 → 38 días (297,8 h)
 
-**Duración total del proyecto con desvío:** 84 días (662.92 h)(3 meses)
+**Duración total del proyecto (con desvío):** 297,8 + 37,8 = 335,6 h → 42 días 
+
+Con 95 % de confianza:T + 1,96·σ_T = 297,8 + 74,1 = 371,9 h → 47 días
 
 **Camino Crítico:** `INICIO → 4.1.1 → 1.1.1 → 1.2.1 → 1.2.2 → 1.3.2 → 1.3.3 → 1.4 → 3.1 → 2.2.2 → 3.2 → 3.3.1 → 4.3 → FIN`
 
