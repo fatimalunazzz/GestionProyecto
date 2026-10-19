@@ -69,5 +69,10 @@ gantt
 | M4 | 🏁 Cierre Definitivo del Proyecto | 4.3 | — | 0 | 2026-05-26 | 2026-05-26 | **Sí** |
 
 ---
+### Duración Total del Proyecto
 
+* **En horas netas continuas (CPM exacto):** La suma exacta de la ruta crítica es de **297.8 horas** (\~**37.23 días hábiles**).
+* **En días redondeados de trabajo directo:** La suma de los días enteros sobre el camino crítico asciende a **40 días hábiles**.
+* **En el Cronograma Gantt (Cobertura Temporal):** La **duración total figura en 43 días**. Esta diferencia incluye la ventana de días no laborables (como feriados o días de descanso) dentro del calendario del proyecto
+---
 *Cátedra Gestión de Proyectos · FIUNER · 2026*
