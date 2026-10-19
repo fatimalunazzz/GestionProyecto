@@ -4,7 +4,7 @@
 
 ```mermaid
 gantt
-    title Cronograma - Proyecto SiMABPA (Monitoreo Bioacústico)
+    title Cronograma 
     dateFormat  YYYY-MM-DD
     excludes    weekends
 
