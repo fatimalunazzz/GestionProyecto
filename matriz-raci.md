@@ -42,7 +42,7 @@ xychart-beta
     bar [4, 5, 6, 3]
 ```
 
-> [COMPLETAR: analizar si hay roles sobrecargados o con pocas responsabilidades y cómo se equilibra]
+La matriz optimizada logra un equilibrio funcional dinámico: no existe solapamiento excesivo de ejecución primaria ($R$) en un mismo hito temporal para ningún perfil. La co-responsabilidad en tareas complejas (como la integración firmware/hardware en 1.3 o la elaboración del informe final en 3.3) previene cuellos de botella y promueve el trabajo interdisciplinario.
 
 ---
 
