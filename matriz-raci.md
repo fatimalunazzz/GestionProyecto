@@ -30,7 +30,7 @@
 | 2.3.2 | Panel de visualización de indicadores | I | I | I | C | R/A |
 | 3.1 | Estandarización del dataset acústico | I | I | C | R/A | C |
 | 3.2 | Análisis comparativo zona conservada vs urbana | I | I | C | R/A | R |
-| 3.3.1 | Elaboración de informe ambiental para el Sponsor | A | I | I | R | C |
+| 3.3.1 | Elaboración de informe ambiental para el Sponsor | R/A | I | I | R | C |
 | 4.1.1 | Acta de constitución y alcance | R/A | C | C | C | C |
 | 4.1.2 | WBS, cronograma y RACI | R/A | C | C | C | C |
 | 4.2 | Seguimiento y control | R/A | C | C | C | C |
@@ -45,7 +45,7 @@ xychart-beta
     title "Cantidad de tareas por rol (R + A)"
     x-axis ["Director", "Resp. Hardware", "Resp. Software e IA", "Esp. Bioacustica", "Resp. Datos/visualizacion"]
     y-axis "Nº de tareas" 0 --> 12
-    bar [9, 12, 8, 7, 7]
+    bar [10, 12, 8, 7, 7]
 ```
 
 La matriz logra un equilibrio funcional dinámico: no existe solapamiento excesivo de ejecución primaria ($R$) en un mismo hito temporal para ningún perfil. La co-responsabilidad en tareas complejas (como la integración firmware/hardware en 1.3 o la elaboración del informe final en 3.3) previene cuellos de botella y promueve el trabajo interdisciplinario.
