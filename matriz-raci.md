@@ -33,9 +33,9 @@
 | 3.1 | Estandarización del dataset acústico | I |  | C | R | C | A |  |
 | 3.2 | Análisis comparativo zona conservada vs urbana | I | I | C | R | R | A |  |
 | 3.3.1 | Elaboración de informe ambiental para el Sponsor | R |  |  | R | C | A |  |
-| 4.1.1 | Acta de constitución y alcance | R | C | C | C | C | C | A |
+| 4.1.1 | Acta de constitución y alcance | R | C | C | C | C |  | A |
 | 4.1.2 | WBS, cronograma y RACI | R | C | C | C | C | C | A |
-| 4.2 | Seguimiento y control | R | I | I | I | I | C | A |
+| 4.2 | Seguimiento y control | R | I | I | I | I |  | A |
 | 4.3 | Cierre | R | I | I | I | I | C | A |
 
 > ⚠️ **Verificación obligatoria:** cada fila debe tener exactamente **1 A** y al menos **1 R**.
