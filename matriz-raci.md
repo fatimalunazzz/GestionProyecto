@@ -45,9 +45,9 @@
 ```mermaid
 xychart-beta
     title "Cantidad de tareas por rol (R + A)"
-    x-axis ["Director", "Resp. Hardware", "Resp. Software e IA", "Esp. Bioacustica", "Resp. Datos/visualizacion"]
-    y-axis "Nº de tareas" 0 --> 12
-    bar [10, 11, 9, 7, 7]
+    x-axis ["Director", "Resp. Hardware", "Resp. Software e IA", "Esp. Bioacustica", "Resp. Datos/visualizacion", "Gesti'on de Calidad", "Sponsor"]
+    y-axis "Nº de tareas" 0 --> 19
+    bar [5, 6, 5, 5, 4, 17, 2]
 ```
 
 La matriz logra un equilibrio funcional dinámico: no existe solapamiento excesivo de ejecución primaria ($R$) en un mismo hito temporal para ningún perfil. La co-responsabilidad en tareas complejas (como la integración firmware/hardware en 1.3 o la elaboración del informe final en 3.3) previene cuellos de botella y promueve el trabajo interdisciplinario.
