@@ -34,8 +34,8 @@
 | 3.2 | Análisis comparativo zona conservada vs urbana | I | I | C | R | R | A |  |
 | 3.3.1 | Elaboración de informe ambiental para el Sponsor | R |  |  | R | C | A |  |
 | 4.1.1 | Acta de constitución y alcance | R | C | C | C | C |  | A |
-| 4.1.2 | WBS, cronograma y RACI | R | C | C | C | C | A |  |
-| 4.2 | Seguimiento y control | R | I | I | I | I | A |  |
+| 4.1.2 | WBS, cronograma y RACI | R | C | C | C | C |  | A |
+| 4.2 | Seguimiento y control | R | I | I | I | I |  | A |
 | 4.3 | Cierre | R | I | I | I | I |  | A |
 
 > ⚠️ **Verificación obligatoria:** cada fila debe tener exactamente **1 A** y al menos **1 R**.
@@ -47,7 +47,7 @@ xychart-beta
     title "Cantidad de tareas por rol (R + A)"
     x-axis ["Director", "Resp. Hardware", "Resp. Software e IA", "Esp. Bioacustica", "Resp. Datos/visualizacion", "Gesti'on de Calidad", "Sponsor"]
     y-axis "Nº de tareas" 0 --> 19
-    bar [5, 6, 5, 5, 4, 17, 2]
+    bar [5, 6, 5, 5, 4, 15, 4]
 ```
 
 La matriz logra un equilibrio funcional dinámico: no existe solapamiento excesivo de ejecución primaria ($R$) en un mismo hito temporal para ningún perfil. La co-responsabilidad en tareas complejas (como la integración firmware/hardware en 1.3 o la elaboración del informe final en 3.3) previene cuellos de botella y promueve el trabajo interdisciplinario.
