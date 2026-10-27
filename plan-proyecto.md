@@ -1,6 +1,6 @@
-# 📄 Plan de Proyecto — [Nombre del Proyecto]
+# 📄 Plan de Proyecto —  Proyecto Trino
 
-> **Versión:** 1.0 · **Fecha:** [COMPLETAR] · **Estado:** En elaboración
+> **Versión:** 1.0 · **Fecha:** 30/10 · **Estado:** En elaboración
 > **Cátedra:** Gestión de Proyectos · FIUNER · 2026 · **Grupo:** [COMPLETAR]
 
 ---
@@ -9,7 +9,7 @@
 
 | Campo | Detalle |
 |-------|---------|
-| Nombre del proyecto | Sistema de monitoreo acústico para generar indicadores de biodiversidad y perturbación ambiental |
+| Nombre del proyecto | TRINO |
 | Organización | [COMPLETAR] |
 | Sponsor | [COMPLETAR] |
 | Director de Proyecto | [COMPLETAR] |
