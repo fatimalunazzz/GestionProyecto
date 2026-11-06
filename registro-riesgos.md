@@ -1,5 +1,29 @@
 # ⚠️ Registro de Riesgos
+&gt; **Escala de prioridades:** Exposición ≥ 50 → Alta (🔴) · 25-49 → Media (🟡) · &lt; 25 → Baja (🟢)
 
+## 📐 Criterios de Evaluación y Escalado Porcentual
+
+Para objetivar la estimación de **Probabilidad (P)** e **Impacto (I)**, se establecen las siguientes equivalencias porcentuales:
+
+### 1\. Criterio de Probabilidad de Ocurrencia ($P$)
+
+| Valor (1-10) | Rango Porcentual (%) | Definición Cualitativa                                            |
+| ------------ | -------------------- | ----------------------------------------------------------------- |
+| **1 - 2**    | 10% – 20%            | **Muy Baja:** Evento atípico o raro.                              |
+| **3 - 4**    | 30% – 40%            | **Baja:** Poco probable, pero posible en condiciones específicas. |
+| **5 - 6**    | 50% – 60%            | **Moderada:** Ocurrencia probable (50% de probabilidad estimada). |
+| **7 - 8**    | 70% – 80%            | **Alta:** Muy probable de ocurrencia durante la ejecución.        |
+| **9 - 10**   | 90% – 100%           | **Casi Segura:** Evento inminente si no se aplican controles.     |
+
+### 2\. Criterio de Impacto en el Proyecto ($I$)
+
+| Valor (1-10) | Desviación Porcentual Estimada | Definición de Impacto                                                         |
+| ------------ | ------------------------------ | ----------------------------------------------------------------------------- |
+| **1 - 2**    | Impacto &lt; 5%                   | **Despreciable:** Mínimo desvío en tiempo o costo, absorbible inmediatamente. |
+| **3 - 4**    | Impacto 5% – 15%               | **Menor:** Desvío leve que no afecta tareas del camino crítico.               |
+| **5 - 6**    | Impacto 15% – 25%              | **Moderado:** Consume holguras secundarias sin mover la fecha final.          |
+| **7 - 8**    | Impacto 25% – 40%              | **Mayor:** Afecta tareas críticas o incrementa costos sustancialmente.        |
+| **9 - 10**   | Impacto &gt; 40%                  | **Crítico / Catastrófico:** Paro total del proyecto o pérdida del prototipo.  |
 ## Tabla de riesgos
 
 | ID | Sentencia del riesgo | Categoría | Probabilidad (1-10) | Impacto (1-10) | Exposición (P×I) | Prioridad |
@@ -27,6 +51,7 @@
 | 6º | R8 | 40 | 🟡 Media |
 | 7º | R5 | 36 | 🟡 Media |
 | 8º | R6 | 20 | 🟢 Baja |
+
 
 
 ---
