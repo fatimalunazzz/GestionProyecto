@@ -11,6 +11,7 @@
 | R5 | **Si** ocurre una descarga electrostática o caída de rayo en la zona de montaje en campo, **entonces** se destruirán los componentes electrónicos (placa/sensores) y se perderá el prototipo físico. | Técnico/Externo | 3 | 9 | 27 | Media |
 | R6 | **Si** existen demoras de importación o falta de stock local de insumos secundarios (gabinete o conectores), **entonces** se deberá adaptar un gabinete alternativo, requiriendo reajustes mecánicos menores. | Organizaional | 5 | 4 | 20 | Baja |
 | R7 | **Si** el prototipo es sujeto de robo o vandalismo (gabinete o conectores), **entonces** se deberá rastrear, reacondicionar, suplir o rehacer el prototipo nuevamente | Externo | 5 | 9 | 45 | Media |
+| R8 | **Si** un integrante clave del equipo se enferma o sufre indisponibilidad prolongada durante una fase crítica (ej. desarrollo del clasificador de IA o ensamblaje de hardware), **entonces** se generará un cuello de botella en las tareas asignadas a su rol, demorando el avance del camino crítico. | Gestión/Recursos Humanos | 5 | 8 | 40 | Media |
 
 > **Escala de prioridad:** Exposición ≥ 50 → Alta · 25-49 → Media · < 25 → Baja
 
@@ -23,8 +24,9 @@
 | 3º | R3 | 54 | 🔴 Alta |
 | 4º | R4 | 48 | 🟡 Media |
 | 5º | R7 | 45 | 🟡 Media|
-| 6º | R5 | 36 | 🟡 Media |
-| 7º | R6 | 20 | 🟢 Baja |
+| 6º | R8 | 40 | 🟡 Media |
+| 7º | R5 | 36 | 🟡 Media |
+| 8º | R6 | 20 | 🟢 Baja |
 
 
 ---
