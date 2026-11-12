@@ -1,4 +1,4 @@
-# 📄 Informe de Avance Mensual — Proyecto TRINO
+#  Informe de Avance Mensual — Proyecto TRINO
 
 **Período Reportado:** Mes de Marzo / 2027 (01/03/2027 al 31/03/2027)  
 **Director del Proyecto (PM):** Jerónimo Guerrero / Equipo Directivo TRINO  
