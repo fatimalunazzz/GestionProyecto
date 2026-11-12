@@ -1,4 +1,4 @@
-# 📄 Informe de Avance Semanal — Proyecto TRINO
+#  Informe de Avance Semanal — Proyecto TRINO
 
 **Nombre del Proyecto:** Trino — Sistema de Monitoreo Acústico Autónomo  
 **Período Reportado:** Semana N° 4 (del 22/03/2027 al 26/03/2027)  
@@ -7,7 +7,7 @@
 
 ---
 
-### 🟢 Estado de Avances Técnicos
+###  Estado de Avances Técnicos
 
 #### Tareas Completadas:
 * **1.1.1 Estandarización de parámetros de audio** *(Bioacústica — Esp. en Bioacústica)*: Finalizó la especificación técnica de captura acústica: tasa de muestreo fijada en 48 kHz, cuantización de 16 bits PCM en formato monofónico `.wav` no comprimido.
@@ -28,7 +28,7 @@
 
 ---
 
-### ⚠️ Registro de Incidentes y Bloqueos
+###  Registro de Incidentes y Bloqueos
 
 #### Incidentes Resueltos:
 * **INC-01 (Falla de I/O en tarjeta SD):** Durante las pruebas de firmware se detectó corrupción de archivos `.wav` por escrituras continuas en tarjetas SD convencionales. **Solución:** Se sustituyó la unidad por una tarjeta MicroSD de grado industrial *High Endurance (SLC)* y se ajustó el buffer de escritura en memoria RAM antes del *flush* a disco.
@@ -38,7 +38,7 @@
 
 ---
 
-### 🎯 Decisiones Requeridas y Próximos Pasos
+###  Decisiones Requeridas y Próximos Pasos
 
 #### Decisiones Pendientes:
 1. **Definición de umbral NDSI (Para Gestión de Calidad / Sponsor):** Confirmar si el corte de frecuencia antropogénica para la zona periurbana de Paraná se fija en 1.5 kHz o 2.0 kHz para compensar el ruido de tránsito pesado de la Ruta 11.
