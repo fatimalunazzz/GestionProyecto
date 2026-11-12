@@ -19,11 +19,11 @@ Para objetivar la estimación de **Probabilidad (P)** e **Impacto (I)**, se esta
 
 | Valor (1-10) | Desviación Porcentual Estimada | Definición de Impacto                                                         |
 | ------------ | ------------------------------ | ----------------------------------------------------------------------------- |
-| **1 - 2**    | Impacto &lt; 5%                   | **Despreciable:** Mínimo desvío en tiempo o costo, absorbible inmediatamente. |
-| **3 - 4**    | Impacto 5% – 15%               | **Menor:** Desvío leve que no afecta tareas del camino crítico.               |
-| **5 - 6**    | Impacto 15% – 25%              | **Moderado:** Consume holguras secundarias sin mover la fecha final.          |
-| **7 - 8**    | Impacto 25% – 40%              | **Mayor:** Afecta tareas críticas o incrementa costos sustancialmente.        |
-| **9 - 10**   | Impacto &gt; 40%                  | **Crítico / Catastrófico:** Paro total del proyecto o pérdida del prototipo.  |
+| **1 - 2**    | Impacto &lt; 5%                   | **Despreciable:** Demora de un día o menos, absorbible inmediatamente. |
+| **3 - 4**    | Impacto 5% – 15%               | **Menor:** Demora de 2 días, o un 15% extra del presupuesto.               |
+| **5 - 6**    | Impacto 15% – 25%              | **Moderado:** Consume holguras previstas, dejando sin margen para futuros incidentes sin mover la fecha final. Consume 20% extra del presupuesto  |
+| **7 - 8**    | Impacto 25% – 40%              | **Mayor:** Afecta tareas críticas modificando la fecha final a 2 semanas o menos. Incrementos de 50% extra del presupuesto total  |
+| **9 - 10**   | Impacto &gt; 40%               | **Crítico / Catastrófico:** Paro total del proyecto o pérdida del prototipo.  |
 ## Tabla de riesgos
 
 | ID | Sentencia del riesgo | Categoría | Probabilidad (1-10) | Impacto (1-10) | Exposición (P×I) | Prioridad |
