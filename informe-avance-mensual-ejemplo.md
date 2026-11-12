@@ -1,7 +1,7 @@
 #  Informe de Avance Mensual — Proyecto TRINO
 
 **Período Reportado:** Mes de Marzo / 2027 (01/03/2027 al 31/03/2027)  
-**Director del Proyecto (PM):** Jerónimo Guerrero / Equipo Directivo TRINO  
+**Director del Proyecto (PM):** Equipo Directivo TRINO  
 **Destinatarios:** Fundación CAUCE (Sponsor) / Comité Directivo / Cátedra Gestión de Proyectos (FIUNER) / Equipo Operativo  
 
 ---
