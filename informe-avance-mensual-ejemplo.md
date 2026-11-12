@@ -23,11 +23,11 @@ El cumplimiento de los hitos de la línea base en este primer mes refleja la fin
 
 | Código Hito | Descripción del Hito | Fecha Planificada | Fecha Real / Estado | Estado de Aprobación |
 | :--- | :--- | :---: | :---: | :--- |
-| **HITO-01** | Acta de Constitución y Alcance (Tarea 4.1.1) | 03/03/2027 | 03/03/2027 | Aprobado por Sponsor (CAUCE) y PM |
-| **HITO-02** | WBS, Cronograma CPM y Matriz RACI v7 (Tarea 4.1.2) | 07/03/2027 | 07/03/2027 | Aprobado por Gestión de Calidad |
-| **HITO-03** | Estandarización de Parámetros Audio y Almacenamiento (Tareas 1.1.1 y 1.2.1) | 16/03/2027 | 15/03/2027 | Aprobado por Especialista en Bioacústica y Calidad |
-| **HITO-04** | Integración del Prototipo de Adquisición Acústica (Tareas 1.2.2 y 1.3.1) | 26/03/2027 | 25/03/2027 | Aprobado por Responsable de Hardware |
-| **HITO-05** | Esquema Base de Datos y Algoritmo NDSI/ACI (Tareas 2.1.1 y 2.2.1) | 31/03/2027 | 31/03/2027 | En revisión por Gestión de Calidad |
+| **HITO-01** | Acta de Constitución y Alcance (Tarea 4.1.1) | 03/03/2027 | 03/03/2027 | Aprobado |
+| **HITO-02** | WBS, Cronograma CPM y Matriz RACI v7 (Tarea 4.1.2) | 07/03/2027 | 07/03/2027 | Aprobado |
+| **HITO-03** | Estandarización de Parámetros Audio y Almacenamiento (Tareas 1.1.1 y 1.2.1) | 16/03/2027 | 15/03/2027 | Aprobado |
+| **HITO-04** | Integración del Prototipo de Adquisición Acústica (Tareas 1.2.2 y 1.3.1) | 26/03/2027 | 25/03/2027 | Aprobado |
+| **HITO-05** | Esquema Base de Datos y Algoritmo NDSI/ACI (Tareas 2.1.1 y 2.2.1) | 31/03/2027 | 31/03/2027 | En revisión |
 
 ---
 
