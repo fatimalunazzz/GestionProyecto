@@ -64,7 +64,8 @@ gantt
 | 3.2 | Análisis comparativo zona conservada vs. urbana | 3.1, 2.2.1, 2.2.2 | Especialista en Bioacústica | 3 | 2026-05-15 | 2026-05-19 | No |
 | 3.3.1 | Elaboración de informe ambiental para Sponsor | 3.2 | Especialista en Bioacústica / PM | 3 | 2026-05-20 | 2026-05-22 | No |
 | M3 | 🏁 Fin Fase 3 - Informe de Diagnóstico Bioacústico | 3.3.1 | — | 0 | 2026-05-22 | 2026-05-22 | **Sí** |
-| 4.2 | Seguimiento y Control | 4.1.2 | Director de Proyecto (PM) | 4 | 2026-04-10 | 2026-04-15 | No |
+| 4.2 | Seguimiento y Control | 4.2.1 | Director de Proyecto (PM) | 4 | 2026-04-10 | 2026-04-15 | No |
+| 4.2 | Capacitación del personal | 4.2.2 | Director de Proyecto (PM) | 1 | 2026-04-15 | 2026-04-16 | No |
 | 4.3 | Cierre del Proyecto | 1.4, 2.3.2, 3.3.1, 4.2 | Director de Proyecto (PM) | 2 | 2026-05-25 | 2026-05-26 | No |
 | M4 | 🏁 Cierre Definitivo del Proyecto | 4.3 | — | 0 | 2026-05-26 | 2026-05-26 | **Sí** |
 
