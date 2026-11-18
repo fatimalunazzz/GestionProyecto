@@ -23,7 +23,8 @@
 | 3.3.1 | Elaboración de informe ambiental para el Sponsor | 40 | 24 | 60 | 32 | 30 | 37.2 | 14.0 |
 | 4.1.1 | Acta de constitución y alcance | 16 | 20 | 50 | 12 | 20 | 23.6 | 15.1 |
 | 4.1.2 | WBS, Cronograma y RACI | 32 | 24 | 60 | 24 | 28 | 33.6 | 15.1 |
-| 4.2 | Seguimiento y Control | 48 | 34 | 30 | 24 | 40 | 35.2 | 9.2 |
+| 4.2.1 | Seguimiento y Control | 48 | 34 | 30 | 24 | 40 | 35.2 | 9.2 |
+| 4.2.2 | Capacitación de personal |  | | |  |  |  |  |
 | 4.3 | Cierre | 16 | 8 | 10 | 8 | 16 | 11.6 | 4.1 |
 | **TOTAL** | | | | | | |**468** | **253.4** | |
 
