@@ -35,7 +35,8 @@ mindmap
       4.1 Planificación
         4.1.1 Acta de constitución y alcance
         4.1.2 WBS, Cronograma y RACI
-      4.2 Seguimiento y Control
+      4.2.1 Seguimiento y Control
+      4.2.2 Capacitación del personal
       4.3 Cierre
 ```
 
@@ -60,7 +61,8 @@ mindmap
 | **3.3.1** | Elaboración de informe ambiental para el Sponsor | Informe de Diagnóstico Acústico-Ecológico Inicial | Redactar y consolidar el informe final con los hallazgos bioacústicos e indicadores de biodiversidad obtenidos. | Documento del informe ambiental finalizado y listo para su presentación al Sponsor. |
 | **4.1.1** | Acta de constitución y alcance | Gestión del Proyecto | Formalizar el proyecto, definiendo objetivos, alcance, restricciones, riesgos iniciales y partes interesadas. | Acta de constitución (Project Charter) firmada y aprobada. |
 | **4.1.2** | WBS, Cronograma y RACI | Gestión del Proyecto | Elaborar la estructura de desglose del trabajo, la programación temporal y la matriz de asignación de responsabilidades. | Documentos de WBS, Cronograma y Matriz RACI completados y aprobados. |
-| **4.2** | Seguimiento y Control | Gestión del Proyecto | Monitoreo del estado del proyecto, gestión de desviaciones y actualizaciones. | Actas de reunión registradas. |
+| **4.2.1** | Seguimiento y Control | Gestión del Proyecto | Monitoreo del estado del proyecto, gestión de desviaciones y actualizaciones. | Actas de reunión registradas. |
+| **4.2.2** | Capacitación del personal| Gestión del Proyecto | Realizar una experiencia de prueba con la persona que manipulará el dispositivo. Explicación de procedimiento | Realizar satisfactoriamente un registro sin asistencia |
 | **4.3** | Cierre | Gestión del Proyecto | Evaluación del cumplimiento de entregables y cierre del proyecto. | Informe de cierre entregado y recepción formal aceptada por el Sponsor. |
 
 *Cátedra Gestión de Proyectos · FIUNER · 2026*
