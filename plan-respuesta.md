@@ -2,7 +2,7 @@
 
 > Se documenta el plan para los **3 riesgos de mayor exposición**.
 
-## R1 — [Nombre del riesgo]
+## R1 — [fluctuaciones economicas]
 
 | Campo | Detalle |
 |-------|---------|
