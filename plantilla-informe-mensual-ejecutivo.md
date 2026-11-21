@@ -1,6 +1,13 @@
-# 📊 Plantilla de Informe Mensual Ejecutivo — Proyecto TRINO
+#  Plantilla de Informe Mensual Ejecutivo — Proyecto TRINO
 
-Este documento constituye la plantilla oficial en blanco para la elaboración de los **Informes Mensuales / Informes de Hito Estratégico** del Proyecto TRINO, orientada a la rendición de cuentas ante el Sponsor (**Fundación CAUCE**), el Comité Directivo y la Cátedra de Gestión de Proyectos.
+###  Informes para el Sponsor (Fundación CAUCE)
+
+a comunicación ejecutiva con la ONG se concentra en **2 Informes Hito Estratégicos**:
+
+1.  **Informe Hito 1: A Mitad de Proyecto (Semana 4-5 / Fin de Fase 2):**
+  * **Enfoque:** Demostración del prototipo físico operativo (gabinete IP65, autonomía y grabado SD), estado de integración del mapa web interactivo preliminar y balance de salud global/presupuesto.
+2.  **Informe Hito 2: Previo al Cierre Final (Semana 8-9 / Fin de Fase 3):**
+  * **Enfoque:** Entrega del **Informe Ambiental Integrador (Entregable 3.3.1)** con el análisis de los índices bioacústicos (**NDSI** y **ACI**), validación del modelo de IA ante ruidos y transferencia tecnológica a la ONG.
 
 ---
 
@@ -15,10 +22,10 @@ Este documento constituye la plantilla oficial en blanco para la elaboración de
 ### 🚦 Semáforo de Salud del Proyecto
 Marcar con una `X` el estado de salud global correspondiente al período reportado, fundamentado en los criterios cuantitativos de la matriz de desvío:
 
-| Estado | Selección | Criterio de Tiempo (Cronograma / SPI) | Criterio de Costo (Presupuesto / CPI) | Condición de Riesgos Críticos | Acción de Gobernanza Requerida |
-|:---:|:---:|:---|:---|:---|:---|
-| 🟢 **VERDE** <br>*(En Regla)* | `[   ]` | Atraso $\le 2$ días hábiles ($\le 5\%$ del camino crítico). <br>$\text{SPI} \ge 0,95$. | Desvío de costo $\le 5\%$. <br>$\text{CPI} \ge 0,95$. | Riesgos bajo control; sin amenazas críticas materializadas. | Avance normal según línea base. Sin intervención de la Dirección. |
-| 🟡 **AMARILLO** <br>*(Alerta)* | `[   ]` | Atraso de **3 a 5 días hábiles** ($5\% - 12\%$ de desvío). <br>$0,88 \le \text{SPI} < 0,95$. | Sobrecosto de **$5\%$ a $15\%$**. <br>$0,88 \le \text{CPI} < 0,95$. | Riesgo medio/alto activado; uso parcial de holguras. | El PM aplica contingencia y absorbe atraso con Reserva PERT 95%. |
+| Estado | Selección | Criterio de Tiempo (Cronograma / SPI) | Criterio de Costo (Presupuesto / CPI) | Condición de Riesgos Críticos |
+|:---:|:---:|:---|:---|:---|
+| 🟢 **VERDE** <br>*(En Regla)* | `[   ]` | Atraso $\le 2$ días hábiles ($\le 5\%$ del camino crítico). <br>$\text{SPI} \ge 0,95$. | Desvío de costo $\le 5\%$. <br>$\text{CPI} \ge 0,95$. | Riesgos bajo control; sin amenazas críticas materializadas. | 
+| 🟡 **AMARILLO** <br>*(Alerta)* | `[   ]` | Atraso de **3 a 5 días hábiles** ($5\% - 12\%$ de desvío). <br>$0,88 \le \text{SPI} < 0,95$. | Sobrecosto de **$5\%$ a $15\%$**. <br>$0,88 \le \text{CPI} < 0,95$. | Riesgo medio/alto activado; uso parcial de holguras. | 
 | 🔴 **ROJO** <br>*(Crítico)* | `[   ]` | Atraso **$> 5$ días hábiles** ($> 12\%$ de desvío). <br>$\text{SPI} < 0,88$. | Sobrecosto **$> 15\%$**. <br>$\text{CPI} < 0,88$. | Riesgo alto ($R2, R3, R4$) agota reserva PERT o afecta entrega. | Notificación formal al Sponsor/Comité para redefinir línea base. |
 
 ---
@@ -31,7 +38,7 @@ Resumen cuantitativo del progreso físico y cumplimiento de la planificación te
 * **Índice de Desempeño del Cronograma (SPI):** `[ Valor: Ej. 1.02 ]` $\left(\text{SPI} = \frac{\text{Avance Real}}{\text{Avance Planificado}}\right)$
 * **Índice de Desempeño del Costo (CPI):** `[ Valor: Ej. 0.98 ]` $\left(\text{CPI} = \frac{\text{Valor Ganado}}{\text{Costo Real}}\right)$
 
-### 📅 Cumplimiento de Hitos de la Estructura de Desglose del Trabajo (WBS)
+### Cumplimiento de Hitos de la Estructura de Desglose del Trabajo (WBS)
 
 | Código WBS | Hito / Entregable Clave | Fecha Planificada | Fecha Real / Estimada | Estado (`Cumplido` / `En Proceso` / `Demorado`) | Observaciones del Hito |
 |:---:|:---|:---:|:---:|:---:|:---|
@@ -41,20 +48,13 @@ Resumen cuantitativo del progreso físico y cumplimiento de la planificación te
 
 ---
 
-## 3. Desempeño Presupuestario y Estado de Reservas
+## 3. Desempeño Presupuestario 
 
 Balance del uso de fondos asignados y consumo de contingencias:
 
 * **Presupuesto Total Asignado:** `[ $ Monto Total ]`
 * **Gasto Acumulado Ejecutado:** `[ $ Monto Ejecutado ]` `[ % del Total ]`
 * **Variación Presupuestaria:** `[ $ Sobrecosto o Ahorro ]`
-
-### 🛡️ Estado de las Reservas del Proyecto
-
-| Tipo de Reserva | Monto / Días Asignados | Consumido en el Período | Saldo Disponible | Justificación del Consumo |
-|:---|:---:|:---:|:---:|:---|
-| **Reserva de Contingencia Financiera** | `[ $ Monto ]` | `[ $ Monto ]` | `[ $ Saldo ]` | `[ Cobertura de fluctuación cambiaria R2 / Insumos ]` |
-| **Reserva por Incertidumbre PERT 95%** | `[ 4.7 Días Hábiles ]` | `[ Días Consumidos ]` | `[ Días Restantes ]` | `[ Absorción de desvíos climáticos R1 o licencias R5 ]` |
 
 ---
 
