@@ -42,9 +42,3 @@
 3. **`[ Tarea Prioritaria 3 ]` (Tarea `[ WBS X.X ]`):** `[ Objetivo conciso a alcanzar en los próximos 7 días ]`
 
 ---
-
-### 5. Control Interno y Validaciones
-
-* **Elaborado por (Responsable Técnico):** `[ Firma / Nombre ]` — Fecha: `[ DD/MM/AAAA ]`
-* **Revisado por (Gestión de Calidad):** `[ Firma / Nombre ]` — Fecha: `[ DD/MM/AAAA ]`
-* **Aprobado por (Director de Proyecto / PM):** `[ Firma / Nombre ]` — Fecha: `[ DD/MM/AAAA ]`
