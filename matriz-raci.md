@@ -6,13 +6,13 @@
 
 | Rol | Persona asignada |
 |-----|-----------------|
-| Director / Líder de Proyecto (PM)| [COMPLETAR] |
-| Responsable de Hardware e Infraestructura de Campo | [COMPLETAR] |
-| Responsable de Software e IA | [COMPLETAR] |
-| Especialista en Bioacústica y Conservación/Especialista en Biodiversidad / Asesor ambiental | [COMPLETAR] |
-| Responsable de Datos y Visualización | [COMPLETAR] |
-| Gestión de Calidad | [COMPLETAR] |
-| Sponsor | [COMPLETAR] |
+| Director / Líder de Proyecto (PM)| María Zorzal |
+| Responsable de Hardware e Infraestructura de Campo | Jerónimo Guerrero |
+| Responsable de Software e IA | Santiago Junquera |
+| Especialista en Bioacústica y Conservación/Especialista en Biodiversidad / Asesor ambiental | Juan Calandria |
+| Responsable de Datos y Visualización | Fátima Luna |
+| Gestión de Calidad | Martin P. Escador |
+| Sponsor | Fundación CAUCE|
 
 ## Matriz
 
@@ -35,7 +35,8 @@
 | 3.3.1 | Elaboración de informe ambiental para el Sponsor | R |  |  | R | C | A | I |
 | 4.1.1 | Acta de constitución y alcance | R | C | C | C | C |  | A |
 | 4.1.2 | WBS, cronograma y RACI | R | C | C | C | C | C | A |
-| 4.2 | Seguimiento y control | R | I | I | I | I | A | I |
+| 4.2.1 | Seguimiento y control | R | I | I | I | I | A | I |
+| 4.2.2 | Capacitación del personal | R |  | C |  | C | A | I |
 | 4.3 | Cierre | R | I | I | I | I | C | A |
 
 > ⚠️ **Verificación obligatoria:** cada fila debe tener exactamente **1 A** y al menos **1 R**.
