@@ -1,7 +1,7 @@
 # 📄 Plan de Proyecto —  Proyecto Trino
 
 > **Versión:** 1.0 · **Fecha:** 30/10 · **Estado:** En elaboración
-> **Cátedra:** Gestión de Proyectos · FIUNER · 2026 · **Grupo:** [COMPLETAR]
+> **Cátedra:** Gestión de Proyectos · FIUNER · 2026 · **Grupo:** 5
 
 ---
 
@@ -10,9 +10,9 @@
 | Campo | Detalle |
 |-------|---------|
 | Nombre del proyecto | TRINO |
-| Organización | [COMPLETAR] |
-| Sponsor | [COMPLETAR] |
-| Director de Proyecto | [COMPLETAR] |
+| Organización | Grupo 5 |
+| Sponsor | Fundación CAUCE |
+| Director de Proyecto | María Zorzal |
 | Fecha de inicio prevista | [COMPLETAR] |
 | Fecha de cierre prevista | [COMPLETAR] |
 
@@ -26,13 +26,26 @@
 
 | Nombre / Rol | Área | Influencia |
 |--------------|------|:---------:|
-| [COMPLETAR] | [COMPLETAR] | Alta |
+| Responsable de Hardware e Infraestructura||Alta|
+| Responsable de Software e IA ||Alta|
+| Resp. Datos y Visualización ||Media|
+| Especialista en Bioacústica ||Media|
+| Gestión de Calidad ||Alta|
+| Líder de Proyecto ||Alta|
+| Usuario ||Alta|
+| Sponsor ||Alta|
 
 ### Equipo del proyecto
 
 | Integrante | Rol | Responsabilidad |
 |-----------|-----|----------------|
-| [COMPLETAR] | Director | [COMPLETAR] |
+| Jerónimo Guerrero  | Responsable de Hardware e Infraestructura| Ensamblado y puesta a punto del dispositivo físico de registro|
+| Santiago Junquera | Responsable de Software e IA | Desarrollo del software embebido y del modelo clasificador de ML|
+| Fátima Luna  | Resp. Datos y Visualización |Manejo de datasets y comunicación de Indices obtenidos|
+| Juan Calandria| Especialista en Bioacústica |Interpretación de la información para el armado del informe ambiental|
+| Martin P. Escador| Gestión de Calidad |Control de etapas y aprobador de hitos|
+| María Zorzal |  Líder de Proyecto |Vinculación entre los distintos roles y guía del plan prospuesto|
+
 
 ---
 
