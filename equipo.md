@@ -2,19 +2,26 @@
 
 ## Integrantes
 
-| Nombre y Apellido | Legajo | Carrera | Rol en el proyecto |
+|  Apellido y Nombre | Legajo | Carrera | Rol en el proyecto |
 |-------------------|--------|---------|-------------------|
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+| Jerónimo Guerrero  | 12450/2020| Bioingeniería | Responsable de Hardware e Infraestructura|
+| Santiago Junquera | 13560/2019 | Bioingeniería| Responsable de Software e IA |
+| Fátima Luna  | 14670/2019 | Bioingeniería | Resp. Datos y Visualización |
+| Juan Calandria| 14670/2015 | Licenciatura en Ciencias Biológicas | Especialista en Bioacústica |
+| Martin P. Escador| 12330/2013 | Ingeniería en sistemas | Gestión de Calidad |
+| María Zorzal | 14590/2004 | Administración de Empresas|  Líder de Proyecto |
+
+
+
+
 
 ## Número de grupo
 
-**Grupo Nº:** [COMPLETAR]
+**Grupo Nº:** 5
 
 ## Repositorio
 
-**URL del repositorio:** `https://github.com/[usuario]/[nombre-repo]`
+**URL del repositorio:** `https://github.com/fatimalunazzz/GestionProyecto`
 
 ---
 
