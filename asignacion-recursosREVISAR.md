@@ -35,7 +35,8 @@
 | **3.3.1** | Elaboración de informe ambiental para Sponsor | 20 h | Esp. Bioacústica / PM | 65% | 2.5 d | 3.0 d | +0.5 d | Consolidación de resultados bioacústicos para la Secretaría de Ambiente y ONG. |
 | **4.1.1** | Acta de constitución y alcance | 15 h | Director de Proyecto | 50% | 2.0 d | 3.0 d | +1.0 d | Formalización de acuerdos, gobernanza y requerimientos institucionales. |
 | **4.1.2** | WBS, Cronograma y RACI | 20 h | Director de Proyecto | 60% | 3.0 d | 4.0 d | +1.0 d | Estimación PERT con 95% de confianza y nivelación de responsabilidades. |
-| **4.2** | Seguimiento y Control | 25 h | Director de Proyecto | 50% | 3.0 d | 4.0 d | +1.0 d | Control de avance físico (SPI/CPI) e informes semanales simplificados. |
+| **4.2.1** | Seguimiento y Control | 25 h | Director de Proyecto | 50% | 3.0 d | 4.0 d | +1.0 d | Control de avance físico (SPI/CPI) e informes semanales simplificados. |
+| **4.2.2** | Capacitación del personal | 20 h | Director de Proyecto | 60% | 1.5 d | 1 d | +0.5 d | Control de funcionamiento final |
 | **4.3** | Cierre del Proyecto | 8 h | Director de Proyecto | 50% | 1.5 d | 2.0 d | +0.5 d | Acta de aceptación final y transferencia tecnológica al Sponsor. |
 
 ---
