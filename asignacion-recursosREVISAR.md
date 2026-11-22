@@ -53,7 +53,7 @@ gantt
     4.1.1 Acta de constitución           :p0t1, 2026-04-01, 3d
     4.1.2 WBS, Cronograma y RACI          :p0t2, after p0t1, 4d
     4.2 Seguimiento y Control             :p0t3, after p0t2, 4d
-    4.2 Capacitación del personal         :p0t4, after p0t3, 1d
+    4.2 Capacitación del personal         :p0t4, before p0t5, 1d
     4.3 Cierre del Proyecto               :p0t5, 2026-05-25, 2d
 
     section [Resp. Hardware]
