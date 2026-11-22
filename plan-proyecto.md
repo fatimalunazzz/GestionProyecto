@@ -53,9 +53,9 @@
 
 > *Ver detalle en [docs/01-plan-inicial/ciclo-de-vida.md](docs/01-plan-inicial/ciclo-de-vida.md)*
 
-**Enfoque seleccionado:** [Predictivo / Adaptativo / Híbrido]
+**Enfoque seleccionado:** Híbrido
 
-**Justificación resumida:** [COMPLETAR]
+**Justificación resumida:** El proyecto combina investigación científica, desarrollo de hardware físico y diseño de software. Debido a esta naturaleza multidisciplinaria, un enfoque híbrido representa la estrategia más segura, eficiente y coherente.
 
 ---
 
@@ -74,8 +74,8 @@
 
 > *Ver: [WBS](docs/02-wbs-estimaciones/wbs.md) · [Cronograma](docs/02-wbs-estimaciones/cronograma.md) · [Red de tareas](docs/02-wbs-estimaciones/red-de-tareas.md)*
 
-**Duración total del proyecto:** [COMPLETAR] días
-**Esfuerzo total estimado:** [COMPLETAR] horas
+**Duración total del proyecto:** 43 días hábiles
+**Esfuerzo total estimado:** 297.8 horas
 
 ---
 
@@ -85,7 +85,13 @@
 
 | Recurso | Rol | Dedicación |
 |---------|-----|:---------:|
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR]% |
+| Integrante 1 | Director / Líder de Proyecto (PM)  | 30% (6 hs/sem prom.) |
+| Integrante 2 | Responsable de Hardware e Infraestructura de Campo  | 40% (8 hs/sem prom.) |
+| Integrante 3 | Responsable de Software e Inteligencia Artificial | 50% (10 hs/sem prom.) |
+| Integrante 4 | Especialista en Bioacústica y Asesor Ambiental | 20% (4 hs/sem prom.) |
+| Integrante 5 | Responsable de Datos y Visualización Web | 30% (6 hs/sem prom.) |
+| Integrante 6 | Responsable de Gestión de Calidad | 20% (3 hs/sem prom.) |
+
 
 ---
 
