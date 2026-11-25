@@ -42,7 +42,7 @@
 | Tipo | Descripción |
 |------|-------------|
 | Tiempo | Período de ejecución estricto de **9 semanas** (41 días hábiles de trabajo neto y 4,7 días de Reserva por Incertidumbre PERT 95%), acotado al calendario de la cátedra de Gestión de Proyectos. |
-| Presupuesto | Límite financiero máximo de **$5.800.379 ARS** (\~USD 4.832), que consolida insumos de hardware, servicios cloud (3 meses), 370 horas de honorarios profesionales y los fondos de contingencia (15% en HW por riesgo cambiario R2 y 10% de reserva general).|
+| Presupuesto | Límite financiero máximo de **$14.370.00 ARS** (\~USD 9.125), que consolida insumos de hardware, servicios cloud (3 meses), 370 horas de honorarios profesionales y los fondos de contingencia (15% en HW por riesgo cambiario R2 y 10% de reserva general).|
 | Tecnológica / Hardware | Obligación de utilizar componentes comerciales en stock nacional (*Off-The-Shelf* / COTS) para asegurar disponibilidad inmediata en 24–72 horas sin arriesgar el camino crítico por tiempos de importación aduanera. |
 | Legal y Permisos | El despliegue del dispositivo de escucha en terreno está supeditado a la aprobación formal de los permisos de acceso e instalación por parte de los Municipios de Oro Verde (Jardín Botánico) y Paraná. |
 | Alcance | El despliegue de los nodos de escucha en terreno está supeditado a la aprobación formal de los permisos de acceso e instalación por parte de los Municipios de Oro Verde (Jardín Botánico) y Paraná. |
