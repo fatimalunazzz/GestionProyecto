@@ -16,15 +16,15 @@
 
 ## 1. Asistencia y Declaración de Quórum 
 
-| Nombre y Apellido | Rol en el Proyecto (RACI) | Asistencia (\`Presente\` / \`Ausente\` / \`Excusado\`) |
+| Nombre y Apellido | Rol en el Proyecto | Asistencia (\`Presente\` / \`Ausente\` / \`Excusado\`) |
 |:---|:---|:---:|
 | [Nombre] | Director de Proyecto (PM) | Presente |
-| Fundación CAUCE | Sponsor / Aprobador (\`A\`) | Presente | 
-| [Nombre] | Responsable de Hardware (\`R\`) | Presente | 
-| [Nombre] | Responsable de Software e IA (\`R\`) | Presente | 
-| [Nombre] | Responsable de Datos (\`R\`) | Presente | 
-| [Nombre] | Especialista en Bioacústica (\`C\`) | Presente | 
-| [Nombre] | Gestión de Calidad (\`A\`) | Presente |
+| Fundación CAUCE | Sponsor | Presente | 
+| [Nombre] | Responsable de Hardware | Presente | 
+| [Nombre] | Responsable de Software e IA | Presente | 
+| [Nombre] | Responsable de Datos | Presente | 
+| [Nombre] | Especialista en Bioacústica | Presente | 
+| [Nombre] | Gestión de Calidad | Presente |
 
 ---
 
