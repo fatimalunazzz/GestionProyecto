@@ -103,7 +103,7 @@
 | Comunicación | Frecuencia | Responsable |
 | ------ | ------ | ------ |
 | Reunión de seguimiento | Semanal | Director del proyecto (PM) |
-| Informe al sponsor | Quincenal / Mensual | Director del proyecto (PM) |
+| Informe al sponsor | En hitos definidos | Director del proyecto (PM) |
 | Sincronización técnica semanal | Semanal | Responsables de Hardware, Software, Datos y Bioacústica |
 | Auditoría de calidad y entregables | Previa a cada entrega | Gestión de Calidad / PM |
 | Demostración práctica (Showcase) | Al finalizar prototipo | Director de Proyecto (PM) / Equipo |
